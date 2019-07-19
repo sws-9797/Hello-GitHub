@@ -10,5 +10,11 @@ public class Hello{
 	pubilc void test(){
 		error("测试一下");
 	}
+	
+	public void work(){
+		System.out.println("嗨起来!");
+
+	}
+	
 }
 
