@@ -11,7 +11,8 @@ public class Hello{
 		error("测试一下");
 		System.out.println("测试分支!");
 		System.out.println("master!!!");
-		
+		System.out.println("branch2!!!!");
+
 	}
 	
 	public void work(){
