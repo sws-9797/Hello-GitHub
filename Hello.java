@@ -10,6 +10,8 @@ public class Hello{
 	pubilc void test(){
 		error("测试一下");
 		System.out.println("测试分支!");
+		System.out.println("branch2!!!!");
+
 	}
 	
 	public void work(){
