@@ -9,6 +9,7 @@ public class Hello{
 	
 	pubilc void test(){
 		error("测试一下");
+		System.out.println("测试分支!");
 	}
 	
 	public void work(){
